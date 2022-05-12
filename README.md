@@ -1,3 +1,4 @@
 # manifesto-pod
 
-![image title](Screenshot 2022-05-12 at 16.42.32.png)
+![enter image description here](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png)
+
